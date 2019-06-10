@@ -1,9 +1,11 @@
 # Furever Home
 
 [Trello][trello]
-[Heroku][heroku]
 
 [trello]: https://trello.com/b/5nC7ViUM/51-capstone-group-4
+
+[Heroku][heroku]
+
 [heroku]: http://capstone-furever-home.herokuapp.com/
 
 # Minimum Viable Product
